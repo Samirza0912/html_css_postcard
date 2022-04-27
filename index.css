@@ -1,0 +1,8 @@
+.postcard{
+    width: 100%;
+    max-width: 95rem;
+    padding: 4rem;
+    display: flex;
+    align-items: center;
+    border-radius: .8rem;
+}
